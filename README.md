@@ -4,4 +4,4 @@ gaining experience
 I liked pull request i tried another one
 I trie more to understand pull request
 more and more pull request to understand
-I start to understand
+I start to understand a little bit
